@@ -9,4 +9,5 @@ Bash shell clone for linux systems
 
 ## Compilation / Execution
 To compile program: gcc main.c -o BashClone.exe
+
 To run program: ./BachClone.exe
